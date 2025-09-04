@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Stacks.WinUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Stacks.WinUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

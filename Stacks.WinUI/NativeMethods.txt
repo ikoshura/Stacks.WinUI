@@ -1,0 +1,9 @@
+﻿FindWindow
+FindWindowEx
+GetWindowLongPtr
+SetWindowLongPtr
+SetParent
+GetWindowRect
+SetWindowPos
+GetCursorPos
+GetDpiForWindow
